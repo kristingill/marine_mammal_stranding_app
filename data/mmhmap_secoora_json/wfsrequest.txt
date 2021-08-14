@@ -1,0 +1,1 @@
+https://data.axds.co/gs/secoora/ows?service=WFS&version=1.0.0&request=GetFeature&outputFormat=SHAPE-ZIP&typeName=secoora:mmhmap_secoora_json

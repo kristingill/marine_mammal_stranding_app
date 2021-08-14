@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Otomanopee+One&display=swap');
+
+body{
+  font-family: 'Otomanopee One', sans-serif;
+  font-size: 16px;
+  color: DarkBlue; /* text color */
+}
+
+.navbar{
+  background-color: lightblue;
+  font-family: 'Otomanopee One', sans-serif;
+  font-size: 16px;
+}
+
+.navbar-default .navbar-brand{
+  color: DarkBlue;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.well{
+  background-color: lightblue;
+}
+
+.has-items{
+  background-color: AntiqueWhite;
+}
+
+.li-active{
+  background-color: AntiqueWhite;
+}
